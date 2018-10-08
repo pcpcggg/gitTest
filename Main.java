@@ -1,3 +1,3 @@
 piblic class Main {
-	private String name;
+	private String name;	// test2.dksapdjaspdjasp
 }
